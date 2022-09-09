@@ -1,1 +1,1 @@
-prints text
+printf command
