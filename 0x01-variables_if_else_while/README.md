@@ -1,1 +1,1 @@
-assign a random number to the variable n each time it is executed.
+prints all possible combinations of single-digit numbers.
